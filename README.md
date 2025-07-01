@@ -56,6 +56,7 @@ DBMS allows regular backup and recovery of data in case of failure.
 
 
 4. Explain 5 challenges of file-based storage system which was tackled by DBMS .
+
 Ans.
 Redundancy: DBMS stores data centrally, avoiding duplication.
 Inconsistency: One data copy ensures consistency everywhere.
